@@ -2,3 +2,5 @@
 /.idea
 /temp
 /**/__pycache__/
+/dist
+/build

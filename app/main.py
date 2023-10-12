@@ -1,4 +1,4 @@
-import os.path
+import os
 import sys
 
 from PySide6.QtGui import QIcon
@@ -22,6 +22,8 @@ class Application(QMainWindow):
                 )
             )
         )
+
+        self.showMaximized()
 
         screen = MainScreen()
         self.setCentralWidget(screen)
