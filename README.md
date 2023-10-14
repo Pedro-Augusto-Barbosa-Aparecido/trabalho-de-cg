@@ -38,16 +38,16 @@ Também poderá baixar o app diretamente do **GitHub** se preferir clicando [aqu
 
 O aplicativo tem quatro funções, nas quais são:
 
-##### Remove Background
+### Remove Background
 Nessa função se tiver uma imagem para ser removido o fundo ele irá remover e mostrar no preview da direita.
 
-##### Import image
+### Import image
 Nessa você irá escolher a imagem que irá importar para remover o fundo.
 
-##### Clear Content
+### Clear Content
 Esta função irá limpar o conteúdo dos previews e o que foi importado
 
-##### Save
+### Save
 Nessa irá salvar a imagem onde desejar.
 
 ![Application Print](docs/app.png)
